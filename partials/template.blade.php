@@ -15,7 +15,7 @@
 
 <div class="col-md-offset-2 col-md-8 breathing-space seagrid-info">
 	<h1 class="text-center">What is SciGaP?</h1>
-	<p class="text-center">
+	<p class="text-center" style="color:#cccccc;">
 		Science Gateways are easy to build but hard to sustain. Key developers come and go. Scaling up to support growing user communities and more demanding usage takes a lot of work. Things go wrong at the worst times. SciGaP's goal is to help gateways address these problems.<br/>
 	</p>
 	<hr/>
@@ -38,7 +38,7 @@
 <div class="col-md-12" style="background-color: #f5f7f9; padding-top:20px;">
 	<div class="col-md-offset-2 col-md-8 text-center">
 		<h1>Why use SciGaP?</h1>
-		<p class="text-center">
+		<p class="text-center"  style="color:#cccccc;">
 			Science Gateways are virtual environments that dramatically accelerate scientific discovery by enabling scientific communities to utilize distributed computational and data resources (that is, cyberinfrastructure). Successful Science Gateways provide access to sophisticated and powerful resources, while shielding their users from the resources’ complexities.  
 		</p>
 		<hr/>
@@ -62,7 +62,8 @@
 
 <div class="col-md-offset-2 col-md-8 text-center" style="margin-top:50px;">
 <h3>Create your Account Today!</h3>
-<button class="btn btn-primary btn-lg" style="border-radius:0; background-color:#525760; margin-top:10px;">Create Account</button>
+<a href="{{ URL::to('/') }}/create">
+<button class="btn btn-primary btn-lg" style="border-radius:0; background-color:#525760; margin-top:10px;">Create Account</button></a>
 </div>
 
 <!--
