@@ -1,40 +1,36 @@
 <br/>
 <br/>
 <br/>
+<style>
+@media (min-width: 768px) { 
+.logo-seperation{
+	margin-left:100px;
+}
+}
+</style>
 <hr class="separation-line"/>
-<div class="col-md-12 new-collaborators text-center" >
-    <div class="col-md-offset-2 col-md-2">
-    	<a href="http://www.iu.edu/" target="_blank">
-        <img width="100%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
-    	</a>
-    </div>
-	<div class="col-md-3">
-    	<a href="http://airavata.apache.org/" target="_blank">
-		<img width="80%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/airavata-logo.png">
-		</a>
-	</div>
-    <div class="col-md-2">
-    	<a href="https://www.xsede.org/" target="_blank">
-        <img width="80%" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/powered-by-xsede.gif">
-    	</a>
-    </div>
-	<div class="col-md-1">
-		<a href="http://www.nsf.gov/" target="_blank">
-		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
-		</a>
-	</div>
+<div class="col-md-12 text-center" style=" padding: 20px 0 20px 0;">
+	<a href="http://airavata.apache.org/" target="_blank">
+		<img width="200px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/poweredby-airavata-logo.png">
+	</a>
+	<a href="http://www.nsf.gov/" target="_blank" class="logo-seperation">
+		<img width="200px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.png">
+	</a>
+	<a href="https://www.xsede.org/" target="_blank" class="logo-seperation">
+		<img width="160px" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/powered-by-xsede.gif">
+	</a>
 </div>
-<div class="col-md-12" style="background:#9E9E9E; padding: 20px 0;">
-	<div class="col-md-offset-2 col-md-3">
-		<a href="http://www.uthscsa.edu/" target="_blank">
-		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/uthscsa-logo.png">
-		</a>
-	</div>
-	<div class="col-md-offset-2 col-md-3">
-		<a href="http://www.sdsc.edu/" target="_blank">
-		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/sdsc-logo.png">
-		</a>
-	</div>
+<div class="col-md-12 text-center" style="background:rgba(125,165,175,0.4); padding: 20px 0 20px 0;">
+
+	<a href="http://www.uthscsa.edu/" target="_blank">
+		<img width="200px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/uthscsa-logo.png">
+	</a>
+	<a href="http://www.iu.edu/" target="_blank" class="logo-seperation">
+        <img width="200px" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
+	</a>
+	<a href="http://www.sdsc.edu/" target="_blank" class="logo-seperation">
+		<img width="160px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/sdsc-logo.png">
+	</a>
 </div>
 
 
