@@ -1,10 +1,4 @@
 <div class="col-md-12 hero-unit scigap-top">
-	<div class="col-md-offset-9 col-md-3">
-	<ol class="breadcrumb" style="margin-top:20px;">
-		<li><a href="#">Home</a></li>
-		<li><a href="#">Team</a></li>
-	</ol>
-	</div>
 	<!--
 	<h1>Hero Image</h1>
 	<h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
@@ -13,7 +7,7 @@
 	-->
 </div>
 
-<div class="col-md-offset-2 col-md-8 breathing-space seagrid-info">
+<div class="col-md-offset-2 col-md-8 breathing-space scigap-info">
 	<h1 class="text-center">What is SciGaP?</h1>
 	<p class="text-center" style="color:#cccccc;">
 		Science Gateways are easy to build but hard to sustain. Key developers come and go. Scaling up to support growing user communities and more demanding usage takes a lot of work. Things go wrong at the worst times. SciGaP's goal is to help gateways address these problems.<br/>
