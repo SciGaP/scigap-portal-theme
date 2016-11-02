@@ -12,13 +12,19 @@
 
     <div class="tab-content">
       <div role="tabpanel" class="tab-pane active" id="iu">
+      <div class="row">
+        <div class="col-sm-offset-1 col-sm-10 col-xs-12">
+          <p class="description">
+          Scigap Team consits of members from the Science Gateway Research Center ( SGRC). You can find information about members at <a href="http://sgrc.iu.edu/#team" target="_blank">http://sgrc.iu.edu/#team</a>.
+          </p>
+        </div>
+      </div>
+        <!--
         <div class="row">
           <div class="col-sm-offset-1 col-sm-10 col-xs-12">
             <p class="description">Members of Scigap at Indiana University are researchers, scientists and students as both graduate research assistants and hourly employees. We welcome you to become involved as well. Interested students should engage with the Apache Airavata community through the developer mailing list to demonstrate their software design skills and development abilities.
-            <!--We have created a number of products that range from full scale <span class="highlight">web apps</span> to simple <span class="highlight">website designs</span>. Check out all our previous work to get an idea of what we can do!-->
               </p>
           </div>
-          <div class="col-md-2 col-sm-2 col-xs-12"></div>
         </div>
 
         
@@ -365,8 +371,103 @@
             </div>   
 
           </div>
+          -->
 
     </div>
 
-    </div>          
+    <div role="tabpanel" class="tab-pane" id="sdsc">
+      <div class="row">
+
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="wrapper">
+            <a href="#" class="portrait-wrapper">                  
+              <img class="portrait" src="img/amit.jpg">
+              <span class="overlay"><span class="valign"></span><i class="fa fa-linkedin"></i></span>
+            </a>
+            <div class="text-center">
+              <h3>Amit Majumdar</h3>
+              <p></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="wrapper">
+            <a href="https://www.linkedin.com/in/terrischwartz" target="_blank" class="portrait-wrapper">                  
+              <img class="portrait" src="img/terri.jpg">
+              <span class="overlay"><span class="valign"></span><i class="fa fa-linkedin"></i></span>              
+            </a>
+            <div class="text-center">
+              <h3>Terri Schwartz</h3>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="wrapper">
+            <a href="https://www.linkedin.com/in/kenneth-yoshimoto-1554a43" target="_blank" class="portrait-wrapper">                  
+              <img class="portrait" src="img/kenneth.jpg">
+              <span class="overlay"><span class="valign"></span><i class="fa fa-linkedin"></i></span>              
+            </a>
+            <div class="text-center">
+              <h3>Kenneth Yoshimoto</h3>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="wrapper">
+            <a href="#" class="portrait-wrapper">                  
+              <img class="portrait" src="img/mark.jpg">
+              <span class="overlay"><span class="valign"></span><i class="fa fa-linkedin"></i></span>              
+            </a>
+            <div class="text-center">
+              <h3>Mark Miller</h3>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="wrapper">
+            <a href="https://www.linkedin.com/in/subhashini-sivagnanam-5851b12" target="_blank" class="portrait-wrapper">                  
+              <img class="portrait" src="img/subhashini.jpg">
+              <span class="overlay"><span class="valign"></span><i class="fa fa-linkedin"></i></span>              
+            </a>
+            <div class="text-center">
+              <h3>Subhashini Sivagnanam</h3>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div role="tabpanel" class="tab-pane" id="uthscsa">
+      <div class="row">
+
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="wrapper">
+            <a href="#" class="portrait-wrapper">                  
+              <img class="portrait" src="img/borries.jpg">
+              <span class="overlay"><span class="valign"></span><i class="fa fa-linkedin"></i></span>
+            </a>
+            <div class="text-center">
+              <h3>Borries Demeler</h3>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="wrapper">
+            <a href=" https://www.linkedin.com/in/garyegorbet " target="_blank" class="portrait-wrapper">                  
+              <img class="portrait" src="img/gary.jpg">
+              <span class="overlay"><span class="valign"></span><i class="fa fa-linkedin"></i></span>              
+            </a>
+            <div class="text-center">
+              <h3>Gary Gorbet</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>  
+
   </div><!-- /.content -->
+</div>

@@ -14,10 +14,10 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a class="scroll hidden" href="#home"></a></li>
-            <li><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li>
-            <li><a class="scroll" href="{{ URL::to('/') }}/pages/team">Team</a></li>
-            <li><a class="scroll" href="{{ URL::to('/') }}/pages/partners">Partners</a></li>
-            <li><a class="scroll" href="{{ URL::to('/') }}/pages/get-involved">Get Involved</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/team") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/team">Team</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/partners") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/partners">Partners</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/get-involved") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/get-involved">Get Involved</a></li>
             @if(! Session::has('loggedin'))
             <li><a class="scroll" href="{{ URL::to('/') }}/create">Create Account</a></li>
             <li><a class="scroll" href="{{ URL::to('/') }}/login">Login</a></li>
