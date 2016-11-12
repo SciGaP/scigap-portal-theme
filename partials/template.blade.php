@@ -60,6 +60,27 @@
 <button class="btn btn-primary btn-lg" style="border-radius:0; background-color:#525760; margin-top:10px;">Create Account</button></a>
 </div>
 
+<div class="row">
+    <div class="col-md-5 col-md-offset-1 text-center breathing-spaces" style="margin-top:50px; border-right: 1px solid #aaa;">
+        <h3>Contact Us</h3>
+        <div class="col-md-12">
+            <span class="glyphicon glyphicon-envelope" style="font-size:6em;"></span><br/>
+        You can contact Scigap by sending a mail to <a href="mailto:psd@scigap.atlassian.net">Scigap E-mail</a>
+        </div>
+        <div class="col-md-12">
+            <span class="glyphicon glyphicon-edit" style="font-size:6em;"></span><br/>
+            You can also create a <span id="serviceDeskHelp">JIRA ticket</span> by signing in <a href="https://scigap.atlassian.net/servicedesk/customer/portal/8" target="_blank">here</a>.
+        </div>
+    </div>
+    <div class="col-md-5 text-center breathing-spaces" style="margin-top:50px;">
+        <h3>Sponsorship</h3>
+        <div class="col-md-12">                    
+			<div class="textwidget"><img class="aligncenter" src="http://scigap.org/wp-content/uploads/2013/09/nsf-logo.png" alt="">
+			<p>SciGaP is funded by the National Science Foundation's Software Infrastructure for Sustained Innovation (SI2) program through award #'s 
+<a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339774">1339774</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339856">1339856</a>, and <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339649">1339649</a>.</p></div>
+		</div>            
+    </div>
+</div>
 <!--
 <div class="col-md-12 text-center blue-bg" style="padding:2.5%">
 	<a href="https://seagrid.org/jnlp/seagrid.jnlp">
