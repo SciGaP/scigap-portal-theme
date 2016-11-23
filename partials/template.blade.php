@@ -75,7 +75,7 @@
     <div class="col-md-5 text-center breathing-spaces" style="margin-top:50px;">
         <h3>Sponsorship</h3>
         <div class="col-md-12">                    
-			<div class="textwidget"><img class="aligncenter" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.png" alt="">
+			<div class="textwidget"><img class="aligncenter" img width="200px" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/nsf-logo.png" alt="">
 			<p>SciGaP is funded by the National Science Foundation's Software Infrastructure for Sustained Innovation (SI2) program through award #'s 
 <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339774">1339774</a>, <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339856">1339856</a>, and <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339649">1339649</a>.</p></div>
 		</div>            
