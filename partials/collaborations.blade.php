@@ -39,6 +39,30 @@
               <td><a href="https://phasta.scigap.org/" target="_blank">Phasta Gateway</a></td>
               <td>Mechanical Engineering</td>
             </tr>
+            <tr>
+              <td><a href="https://geosurveyiu.scigap.org/" target="_blank">SimCCS Gateway</a></td>
+              <td>Geology Survey</td>
+            </tr>
+            <tr>
+              <td><a href="https://sciencegateway.brylinski.org/" target="_blank">Computational Systems Biology Group(CSBG) Gateway</a></td>
+              <td>Biological Science</td>
+            </tr>
+            <tr>
+              <td><a href="https://gateway.simvascular.org/" target="_blank">SimVascular Gateway</a></td>
+              <td>Cardiovascular Simulation</td>
+            </tr>
+            <tr>
+              <td><a href="https://nanoconfinement.sciencegateways.iu.edu/" target="_blank">IU Nano Confinement Gateway</a></td>
+              <td>Materials Research</td>
+            </tr>
+            <tr>
+              <td><a href="http://searchsra.scigap.org/ " target="_blank">Searching-SRA Gateway</a></td>
+              <td>Bio-informatics and Biology</td>
+            </tr>
+            <tr>
+              <td><a href="http://js-156-155.jetstream-cloud.org/" target="_blank">Longitudinal GWAS gateway</a></td>
+              <td>Biostatistics</td>
+            </tr>
           </tbody>
         </table>
 
