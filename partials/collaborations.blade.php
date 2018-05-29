@@ -88,10 +88,12 @@
               <td><a href="https://cybergateway.iu.edu/" target="_blank">Indiana University Gateway</a></td>
               <td>Generic Applications</td>
             </tr>
+            <!--
             <tr>
               <td><a href="https://cybergateway.chpc.utah.edu" target="_blank">University of Utah</a></td>
               <td>Chemistry</td>
             </tr>
+            -->
             <tr>
               <td><a href="http://sciencegateway.oscer.ou.edu/" target="_blank">Oklahoma University</a></td>
               <td>Chemistry & Engineering</td>
@@ -107,6 +109,30 @@
             <tr>
               <td><a href="https://hpcgateway.gsu.edu/" target="_blank">Georgia State University</a></td>
               <td>Generic Applications</td>
+            <tr>
+              <td><a href="https://torana.rc.uab.edu" target="_blank">University of Alabama Birmingham</a></td>
+              <td>Generic Applications</td>
+            </tr>
+            <tr>
+              <td><a href="https://sciencegateway.nmsu.edu/" target="_blank">New Mexico State University</a></td>
+              <td>Generic Applications</td>
+            </tr>
+            <tr>
+              <td><a href="https://accord.hpc.virginia.edu/" target="_blank">Virginia ACCORD Gateway</a></td>
+              <td>Generic Applications</td>
+            </tr>
+            <tr>
+              <td><a href="https://sciencegateway.wvstateu.edu/" target="_blank">West Virginia State University</a></td>
+              <td>Generic Applications</td>
+            </tr>
+            <tr>
+              <td><a href="http://gatech.scigap.org/" target="_blank">Georgia  Institute of Technology</a></td>
+              <td>Generic Applications</td>
+            </tr>
+            <tr>
+              <td><a href="http://ncsaindustry.scigap.org/" target="_blank">NCSA Industry Gateway</a></td>
+              <td>Generic Applications</td>
+            </tr>
             </tr>
           </tbody>
         </table>
