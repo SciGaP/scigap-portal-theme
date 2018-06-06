@@ -15,14 +15,14 @@
       <div class="row">
         <div class="col-sm-offset-1 col-sm-10 col-xs-12">
           <p class="description">
-          Scigap Team consits of members from the Science Gateway Research Center ( SGRC). You can find information about members at <a href="http://sgrc.iu.edu/#team" target="_blank">http://sgrc.iu.edu/#team</a>.
+          SciGaP Team consists of members from the Science Gateway Research Center (SGRC). You can find information about members at <a href="http://sgrc.iu.edu/#team" target="_blank">http://sgrc.iu.edu/#team</a>.
           </p>
         </div>
       </div>
         <!--
         <div class="row">
           <div class="col-sm-offset-1 col-sm-10 col-xs-12">
-            <p class="description">Members of Scigap at Indiana University are researchers, scientists and students as both graduate research assistants and hourly employees. We welcome you to become involved as well. Interested students should engage with the Apache Airavata community through the developer mailing list to demonstrate their software design skills and development abilities.
+            <p class="description">Members of SciGaP at Indiana University are researchers, scientists and students as both graduate research assistants and hourly employees. We welcome you to become involved as well. Interested students should engage with the Apache Airavata community through the developer mailing list to demonstrate their software design skills and development abilities.
               </p>
           </div>
         </div>
