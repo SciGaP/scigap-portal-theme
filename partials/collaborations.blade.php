@@ -56,12 +56,20 @@
               <td>Materials Research</td>
             </tr>
             <tr>
-              <td><a href="http://searchsra.scigap.org/ " target="_blank">Searching-SRA Gateway</a></td>
+              <td><a href="https://www.searchsra.org/" target="_blank">Searching-SRA Gateway</a></td>
               <td>Bio-informatics and Biology</td>
             </tr>
             <tr>
               <td><a href="http://js-156-155.jetstream-cloud.org/" target="_blank">Longitudinal GWAS gateway</a></td>
               <td>Biostatistics</td>
+            </tr>
+            <tr>
+              <td><a href="http://interactwel.scigap.org/" target="_blank">InterACTWEL Science Gateway</a></td>
+              <td>Natural Resources Management Decisions Support</td>
+            </tr>
+            <tr>
+              <td><a href="https://nexttdb.sciencegateway.scigap.org/" target="_blank">NextGen Thermodynamics Database Gateway</a></td>
+              <td>Geochemistry & Environmental Science</td>
             </tr>
           </tbody>
         </table>
@@ -98,10 +106,12 @@
               <td><a href="http://sciencegateway.oscer.ou.edu/" target="_blank">Oklahoma University</a></td>
               <td>Chemistry & Engineering</td>
             </tr>
+            <!--
             <tr>
               <td><a href="https://scigw.oii.org/" target="_blank">Oklahoma Innovation Institute</a></td>
               <td>Chemistry & Engineering</td>
             </tr>
+            -->
             <tr>
               <td><a href="http://sciencegateway.siu.edu" target="_blank">University of Southern Illinois</a></td>
               <td>Generic Applications</td>
