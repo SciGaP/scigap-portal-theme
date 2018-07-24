@@ -143,6 +143,10 @@
               <td><a href="http://ncsaindustry.scigap.org/" target="_blank">NCSA Industry Gateway</a></td>
               <td>Generic Applications</td>
             </tr>
+            <tr>
+              <td><a href="https://hpcgateway.uky.edu/" target="_blank">University of Kentucky Science Gateway</a></td>
+              <td>Generic Applications</td>
+            </tr>
             </tr>
           </tbody>
         </table>
