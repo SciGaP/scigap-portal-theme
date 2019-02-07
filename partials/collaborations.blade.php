@@ -68,8 +68,28 @@
               <td>Natural Resources Management Decisions Support</td>
             </tr>
             <tr>
-              <td><a href="https://nexttdb.sciencegateway.scigap.org/" target="_blank">NextGen Thermodynamics Database Gateway</a></td>
+              <td><a href="https://geochemsim.org/" target="_blank">NextGen Thermodynamics Database Gateway</a></td>
               <td>Geochemistry & Environmental Science</td>
+            </tr>
+            <tr>
+              <td><a href="https://ampgateway.org/" target="_blank">Atomic and Molecular Physic Gateway</a></td>
+              <td>Atomic, Molecular, and Optical Physics</td>
+            </tr>
+            <tr>
+              <td><a href="https://distantreader.scigap.org/" target="_blank">Distant Reader Gateway</a></td>
+              <td>Library Science</td>
+            </tr>
+            <tr>
+              <td><a href="https://www.epw-gateway.cs.binghamton.edu/" target="_blank">Electron-Phonon-Wannier (EPW) Gateway</a></td>
+              <td>Material Science</td>
+            </tr>
+            <tr>
+              <td><a href="https://gemr.scigap.org/" target="_blank">Prostate Cancer Prediction Gateway</a></td>
+              <td>Material Science</td>
+            </tr>
+            <tr>
+              <td><a href="https://singlecellgateway.wharton.upenn.edu/" target="_blank">Single Cell RNA Sequencing Gateway</a></td>
+              <td>Genetic Science</td>
             </tr>
           </tbody>
         </table>
