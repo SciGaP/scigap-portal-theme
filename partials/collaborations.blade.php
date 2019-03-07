@@ -16,7 +16,7 @@
               <td  class="col-md-6">Chemistry & Engineering</td>
             </tr>
             <tr>
-              <td><a href="http://wiki.bcf2.uthscsa.edu/limsv3/" target="_blank">Ultrascan Gateway</a></td>
+              <td><a href="http://ultrascan.aucsolutions.com/" target="_blank">Ultrascan Gateway</a></td>
               <td>Biophysics</td>
             </tr>
             <tr>
@@ -40,7 +40,7 @@
               <td>Mechanical Engineering</td>
             </tr>
             <tr>
-              <td><a href="https://geosurveyiu.scigap.org/" target="_blank">SimCCS Gateway</a></td>
+              <td><a href="https://simccs.org/" target="_blank">SimCCS Gateway</a></td>
               <td>Geology Survey</td>
             </tr>
             <tr>
