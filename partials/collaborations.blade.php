@@ -76,7 +76,7 @@
               <td>Atomic, Molecular, and Optical Physics</td>
             </tr>
             <tr>
-              <td><a href="https://distantreader.scigap.org/" target="_blank">Distant Reader Gateway</a></td>
+              <td><a href="https://distantreader.org/" target="_blank">Distant Reader Gateway</a></td>
               <td>Library Science</td>
             </tr>
             <tr>
@@ -90,6 +90,18 @@
             <tr>
               <td><a href="https://singlecellgateway.wharton.upenn.edu/" target="_blank">Single Cell RNA Sequencing Gateway</a></td>
               <td>Genetic Science</td>
+            </tr>
+            <tr>
+              <td><a href="https://futurewater.indiana.edu" target="_blank">Indiana Future Water Gateway</a></td>
+              <td>Hydrology</td>
+            </tr>
+            <tr>
+              <td><a href="https://qusp.mines.edu/" target="_blank">Colorado School of Mines QUSP Gateway</a></td>
+              <td>Quantum Simulation</td>
+            </tr>
+            <tr>
+              <td><a href="http://cinergi.sdsc.edu/geoportal/#searchPanel" target="_blank">Data Discovery Studio</a></td>
+              <td>Geoscience</td>
             </tr>
           </tbody>
         </table>
@@ -155,9 +167,9 @@
               <td><a href="https://sciencegateway.wvstateu.edu/" target="_blank">West Virginia State University</a></td>
               <td>Generic Applications</td>
             </tr>
-            <tr>
+            <!--<tr>
               <td><a href="http://gatech.scigap.org/" target="_blank">Georgia  Institute of Technology</a></td>
-              <td>Generic Applications</td>
+              <td>Generic Applications</td>-->
             </tr>
             <tr>
               <td><a href="http://ncsaindustry.scigap.org/" target="_blank">NCSA Industry Gateway</a></td>
