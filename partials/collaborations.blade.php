@@ -83,10 +83,10 @@
               <td><a href="https://www.epw-gateway.cs.binghamton.edu/" target="_blank">Electron-Phonon-Wannier (EPW) Gateway</a></td>
               <td>Material Science</td>
             </tr>
-            <tr>
+            <--<tr>
               <td><a href="https://gemr.scigap.org/" target="_blank">Prostate Cancer Prediction Gateway</a></td>
               <td>Health Science</td>
-            </tr>
+            </tr> -->
             <tr>
               <td><a href="https://singlecellgateway.wharton.upenn.edu/" target="_blank">Single Cell RNA Sequencing Gateway</a></td>
               <td>Genetic Science</td>
@@ -102,6 +102,34 @@
             <tr>
               <td><a href="http://cinergi.sdsc.edu/geoportal/#searchPanel" target="_blank">Data Discovery Studio</a></td>
               <td>Geoscience</td>
+            </tr>
+            <tr>
+              <td><a href="https://delta-topology.org/" target="_blank">DELTA Gateway</a></td>
+              <td>Applied Topology in Chemistry</td>
+            </tr>
+            <tr>
+              <td><a href="https://smaltr.org/" target="_blank">SMALTR Gateway</a></td>
+              <td>Chemistry</td>
+            </tr>
+            <tr>
+              <td><a href="https://toppic.sciencegateways.iu.edu/" target="_blank">TopPIC Gateway</a></td>
+              <td>Medicine</td>
+            </tr>
+            <tr>
+              <td><a href="https://delta-topology.org/" target="_blank">DELTA Gateway</a></td>
+              <td>Applied Topology in Chemistry</td>
+            </tr>
+            <tr>
+              <td><a href="https://xsede.microbial-genomes.org/" target="_blank">MIGA Gateway</a></td>
+              <td>Microbiology</td>
+            </tr>
+            <tr>
+              <td><a href="https://xsede.microbial-genomes.org/" target="_blank">MIGA Gateway</a></td>
+              <td>Microbiology</td>
+            </tr>
+            <tr>
+              <td><a href="https://bcbportal.medicine.iu.edu/" target="_blank">BCB Gateway</a></td>
+              <td>Medicine</td>
             </tr>
           </tbody>
         </table>
@@ -148,6 +176,7 @@
               <td><a href="http://sciencegateway.siu.edu" target="_blank">University of Southern Illinois</a></td>
               <td>Generic Applications</td>
             </tr>
+            -->
             <tr>
               <td><a href="https://hpcgateway.gsu.edu/" target="_blank">Georgia State University</a></td>
               <td>Generic Applications</td>
@@ -177,6 +206,10 @@
             </tr>
             <tr>
               <td><a href="https://hpcgateway.uky.edu/" target="_blank">University of Kentucky Science Gateway</a></td>
+              <td>Generic Applications</td>
+            </tr>
+            <tr>
+              <td><a href="https://gateway.hive.pace.gatech.edu/" target="_blank">Georgia Institute of Technology Science Gateway</a></td>
               <td>Generic Applications</td>
             </tr>
             </tr>
