@@ -2,7 +2,7 @@
       <div class="container">
         <h1 class="breathing-space">Our Collaborators and Clients</h1>
         <h3>Domain and Application Gateways</h3>
-#        <hr>
+        <hr>
         <table class="col-md-12 table table-condensed breathing space">
           <thead>
             <tr>
@@ -116,20 +116,20 @@
               <td>Medicine</td>
             </tr>
             <tr>
-              <td><a href="https://delta-topology.org/" target="_blank">DELTA Gateway</a></td>
-              <td>Applied Topology in Chemistry</td>
-            </tr>
-            <tr>
-              <td><a href="https://xsede.microbial-genomes.org/" target="_blank">MIGA Gateway</a></td>
-              <td>Microbiology</td>
+              <td><a href="https://geo-gateway.org/geogateway_django_app/#/maptools" target="_blank">Geo Gateway</a></td>
+              <td>Geo Science</td>
             </tr>
             <tr>
               <td><a href="https://bcbportal.medicine.iu.edu/" target="_blank">BCB Gateway</a></td>
               <td>Medicine</td>
             </tr>
             <tr>
-              <td><a href="https://xsede.microbial-genomes.org/" target="_blank">MIGA Gateway</a></td>
-              <td>Microbiology</td>
+              <td><a href="https://regsnps.ccbb.iupui.edu/" target="_blank">RegSNPs Gateway</a></td>
+              <td>Medicine</td>
+            </tr>
+            <tr>
+              <td><a href="https://immuneportal.ccbb.iupui.edu/" target="_blank">Immune Portal</a></td>
+              <td>Medicine</td>
             </tr>
           </tbody>
         </table>
