@@ -83,7 +83,7 @@
               <td><a href="https://www.epw-gateway.cs.binghamton.edu/" target="_blank">Electron-Phonon-Wannier (EPW) Gateway</a></td>
               <td>Material Science</td>
             </tr>
-            <--
+            <!--
             <tr>
               <td><a href="https://gemr.scigap.org/" target="_blank">Prostate Cancer Prediction Gateway</a></td>
               <td>Health Science</td>
@@ -174,6 +174,7 @@
               <td>Chemistry & Engineering</td>
             </tr>
             -->
+            <!--
             <tr>
               <td><a href="http://sciencegateway.siu.edu" target="_blank">University of Southern Illinois</a></td>
               <td>Generic Applications</td>
@@ -198,10 +199,12 @@
               <td><a href="https://sciencegateway.wvstateu.edu/" target="_blank">West Virginia State University</a></td>
               <td>Generic Applications</td>
             </tr>
-            <!--<tr>
+            <!--
+            <tr>
               <td><a href="http://gatech.scigap.org/" target="_blank">Georgia  Institute of Technology</a></td>
-              <td>Generic Applications</td>-->
+              <td>Generic Applications</td>
             </tr>
+            -->
             <tr>
               <td><a href="http://ncsaindustry.scigap.org/" target="_blank">NCSA Industry Gateway</a></td>
               <td>Generic Applications</td>
