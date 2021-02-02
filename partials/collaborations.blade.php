@@ -2,7 +2,7 @@
       <div class="container">
         <h1 class="breathing-space">Our Collaborators and Clients</h1>
         <h3>Domain and Application Gateways</h3>
-        <hr>
+#        <hr>
         <table class="col-md-12 table table-condensed breathing space">
           <thead>
             <tr>
@@ -124,12 +124,12 @@
               <td>Microbiology</td>
             </tr>
             <tr>
-              <td><a href="https://xsede.microbial-genomes.org/" target="_blank">MIGA Gateway</a></td>
-              <td>Microbiology</td>
-            </tr>
-            <tr>
               <td><a href="https://bcbportal.medicine.iu.edu/" target="_blank">BCB Gateway</a></td>
               <td>Medicine</td>
+            </tr>
+            <tr>
+              <td><a href="https://xsede.microbial-genomes.org/" target="_blank">MIGA Gateway</a></td>
+              <td>Microbiology</td>
             </tr>
           </tbody>
         </table>
