@@ -19,6 +19,7 @@
               <td><a href="http://ultrascan.aucsolutions.com/" target="_blank">Ultrascan Gateway</a></td>
               <td>Biophysics</td>
             </tr>
+            <!--
             <tr>
               <td><a href="https://www.phylo.org/" target="_blank">CIPRES Gateway</a></td>
               <td>Systematic & Population Biology</td>
@@ -27,8 +28,9 @@
               <td><a href="http://www.nsgportal.org/" target="_blank">NSG Gateway</a></td>
               <td>Neuroscience Biology</td>
             </tr>
+            -->
             <tr>
-              <td><a href="https://testdrive.airavata.org/" target="_blank">PGA</a></td>
+              <td><a href="https://testdrive.airavata.org/" target="_blank">TestDrive Portal</a></td>
               <td>Computer & Information Science & Engineering</td>
             </tr>
             <tr>
@@ -59,10 +61,12 @@
               <td><a href="https://www.searchsra.org/" target="_blank">Searching-SRA Gateway</a></td>
               <td>Bio-informatics and Biology</td>
             </tr>
+            <!--
             <tr>
               <td><a href="http://js-156-155.jetstream-cloud.org/" target="_blank">Longitudinal GWAS gateway</a></td>
               <td>Biostatistics</td>
             </tr>
+            -->
             <tr>
               <td><a href="http://interactwel.scigap.org/" target="_blank">InterACTWEL Science Gateway</a></td>
               <td>Natural Resources Management Decisions Support</td>
